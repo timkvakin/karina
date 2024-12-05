@@ -1,3 +1,3 @@
-# timkvakin.github.io
+# karina.github.io
 
 Сайт-визитка на HTML + CSS + JS
